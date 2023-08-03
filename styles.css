@@ -86,6 +86,11 @@ a {
     width: 100%;
 }
 
+.grid-item:hover {
+    opacity: 66%;
+    cursor: pointer;
+}
+
 footer {
     position: relative;
     top: 75px;
